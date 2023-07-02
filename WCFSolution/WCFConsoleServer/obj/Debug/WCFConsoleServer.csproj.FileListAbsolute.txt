@@ -1,0 +1,13 @@
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFConsoleServer\bin\Debug\WCFConsoleServer.exe.config
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFConsoleServer\bin\Debug\WCFConsoleServer.exe
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFConsoleServer\bin\Debug\WCFConsoleServer.pdb
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFConsoleServer\bin\Debug\WCFClasses.dll
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFConsoleServer\bin\Debug\WCFInterfaces.dll
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFConsoleServer\bin\Debug\WCFClasses.pdb
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFConsoleServer\bin\Debug\WCFInterfaces.pdb
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFConsoleServer\obj\Debug\WCFConsoleServer.csproj.AssemblyReference.cache
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFConsoleServer\obj\Debug\WCFConsoleServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFConsoleServer\obj\Debug\WCFConsoleServer.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFConsoleServer\obj\Debug\WCFConsoleServer.csproj.CopyComplete
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFConsoleServer\obj\Debug\WCFConsoleServer.exe
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFConsoleServer\obj\Debug\WCFConsoleServer.pdb

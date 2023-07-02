@@ -1,0 +1,11 @@
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\ConfRemSrv\bin\Debug\ConfRemSrv.exe.config
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\ConfRemSrv\bin\Debug\ConfRemSrv.exe
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\ConfRemSrv\bin\Debug\ConfRemSrv.pdb
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\ConfRemSrv\obj\x86\Debug\ConfRemSrv.csproj.AssemblyReference.cache
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\ConfRemSrv\obj\x86\Debug\ConfRemSrv.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\ConfRemSrv\obj\x86\Debug\ConfRemSrv.Form1.resources
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\ConfRemSrv\obj\x86\Debug\ConfRemSrv.Properties.Resources.resources
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\ConfRemSrv\obj\x86\Debug\ConfRemSrv.csproj.GenerateResource.cache
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\ConfRemSrv\obj\x86\Debug\ConfRemSrv.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\ConfRemSrv\obj\x86\Debug\ConfRemSrv.exe
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\ConfRemSrv\obj\x86\Debug\ConfRemSrv.pdb

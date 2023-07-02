@@ -1,0 +1,2 @@
+insert into TypicalBranch.dbo.[Financial reports] (Title, Date, Description, [Total income], [Total expenses], Profit)
+Select Title, Date, Description, [Total income], [Total expenses], Profit from MainOffice.dbo.[Financial reports]

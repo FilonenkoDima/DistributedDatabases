@@ -1,0 +1,2 @@
+insert into MainOffice.dbo.Suppliers (CompanyName, ContactName, ContactTitle, Address, Phone, PostalCode)
+Select CompanyName, ContactName, ContactTitle, Country + ', ' + Region + ', ' + City + ', ' + Address, Phone, PostalCode  from Northwind.dbo.Suppliers

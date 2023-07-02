@@ -1,0 +1,9 @@
+C:\dotnet\aspnet\ComServer\ComClientLibrary\bin\Debug\ComClientLibrary.dll
+C:\dotnet\aspnet\ComServer\ComClientLibrary\bin\Debug\ComClientLibrary.pdb
+C:\dotnet\aspnet\ComServer\ComClientLibrary\obj\Debug\ComClientLibrary.csproj.AssemblyReference.cache
+C:\dotnet\aspnet\ComServer\ComClientLibrary\obj\Debug\ComClientLibrary.csproj.CoreCompileInputs.cache
+C:\dotnet\aspnet\ComServer\ComClientLibrary\obj\Debug\ComClientLibrary.dll
+C:\dotnet\aspnet\ComServer\ComClientLibrary\obj\Debug\ComClientLibrary.pdb
+C:\dotnet\aspnet\ComServer\ComClientLibrary\bin\Debug\System.Data.OleDb.dll
+C:\dotnet\aspnet\ComServer\ComClientLibrary\bin\Debug\System.Data.OleDb.xml
+C:\dotnet\aspnet\ComServer\ComClientLibrary\obj\Debug\ComClientLibrary.csproj.CopyComplete

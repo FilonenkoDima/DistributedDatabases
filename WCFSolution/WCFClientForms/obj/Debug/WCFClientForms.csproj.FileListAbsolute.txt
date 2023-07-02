@@ -1,0 +1,11 @@
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFClientForms\bin\Debug\WCFClientForms.exe.config
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFClientForms\bin\Debug\WCFClientForms.exe
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFClientForms\bin\Debug\WCFClientForms.pdb
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFClientForms\obj\Debug\WCFClientForms.csproj.AssemblyReference.cache
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFClientForms\obj\Debug\WCFClientForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFClientForms\obj\Debug\WCFClientForms.Form1.resources
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFClientForms\obj\Debug\WCFClientForms.Properties.Resources.resources
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFClientForms\obj\Debug\WCFClientForms.csproj.GenerateResource.cache
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFClientForms\obj\Debug\WCFClientForms.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFClientForms\obj\Debug\WCFClientForms.exe
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFClientForms\obj\Debug\WCFClientForms.pdb

@@ -1,0 +1,6 @@
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\RemLib\bin\Debug\RemLib.dll
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\RemLib\bin\Debug\RemLib.pdb
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\RemLib\obj\Debug\RemLib.csproj.AssemblyReference.cache
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\RemLib\obj\Debug\RemLib.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\RemLib\obj\Debug\RemLib.dll
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\RemLib\obj\Debug\RemLib.pdb

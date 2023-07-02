@@ -1,0 +1,6 @@
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFInterfaces\bin\Debug\WCFInterfaces.dll
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFInterfaces\bin\Debug\WCFInterfaces.pdb
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFInterfaces\obj\Debug\WCFInterfaces.csproj.AssemblyReference.cache
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFInterfaces\obj\Debug\WCFInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFInterfaces\obj\Debug\WCFInterfaces.dll
+C:\Users\Дима\Desktop\РСіО\WCFSolution\WCFInterfaces\obj\Debug\WCFInterfaces.pdb

@@ -1,0 +1,2 @@
+insert into TypicalBranch.dbo.Employees(LastName, FirstName, BirthDate, Address, PostalCode, Phone, Notes)
+Select LastName, FirstName, BirthDate, Address, PostalCode, Phone, Notes from MainOffice.dbo.Employees

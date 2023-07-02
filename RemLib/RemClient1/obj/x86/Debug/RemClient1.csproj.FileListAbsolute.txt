@@ -1,0 +1,14 @@
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\RemClient1\bin\Debug\RemClient1.exe.config
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\RemClient1\bin\Debug\RemClient1.exe
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\RemClient1\bin\Debug\RemClient1.pdb
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\RemClient1\bin\Debug\RemLib.dll
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\RemClient1\bin\Debug\RemLib.pdb
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\RemClient1\obj\x86\Debug\RemClient1.csproj.AssemblyReference.cache
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\RemClient1\obj\x86\Debug\RemClient1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\RemClient1\obj\x86\Debug\RemClient1.Form1.resources
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\RemClient1\obj\x86\Debug\RemClient1.Properties.Resources.resources
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\RemClient1\obj\x86\Debug\RemClient1.csproj.GenerateResource.cache
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\RemClient1\obj\x86\Debug\RemClient1.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\RemClient1\obj\x86\Debug\RemClient1.csproj.CopyComplete
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\RemClient1\obj\x86\Debug\RemClient1.exe
+C:\Users\Дима\Desktop\РСіО\RemLib\RemLib\RemClient1\obj\x86\Debug\RemClient1.pdb
